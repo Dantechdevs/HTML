@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <h2>Form</h2>
+        <form action="action_page.php">
+            <Label for="fname">First name</Label><br>
+            <input type="text" id=".fname" name="fname" value="John"<br>
+            <label for="lname">Last name</label><br><br>
+            <input type="text" id="lname" value="Bob"><br><br>
+            <input type="submit" value="Submit"
+        </form>
+    </body>
+</html>
